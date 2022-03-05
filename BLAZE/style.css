@@ -172,7 +172,7 @@ div.prod-cate h2{
 
 section.product-catagary{
     background-color: var(--Main-color);
-    height: 180px;
+    height: 250px;
     width: 850px;
     border-radius: 10px;
     display: flex;
@@ -183,8 +183,8 @@ section.product-catagary{
 }
 
 section.product-catagary div img{
-     height: 120px;
-     width: 120px;
+     height: 200px;
+     width: 200px;
      border-radius: 50%;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
      
