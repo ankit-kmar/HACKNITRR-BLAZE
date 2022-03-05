@@ -86,7 +86,7 @@ margin: 0.2em 0;
     width: 102%;
     height: 105%;
     border-radius: 10px;
-background: linear-gradient(to right, #ff416c, #ff4b2b);
+background: linear-gradient(to right, #00419d, #00419d);
 
 
 }
@@ -101,13 +101,13 @@ background: linear-gradient(to right, #ff416c, #ff4b2b);
     transform: translate(-1%);
     cursor: pointer;
     color: white;
-    background: linear-gradient(to right,#ff416c , #ff4b2b);
+    background: linear-gradient(to right,#00419d , #00419d);
     transition: all .4s;
 }
 
 .loginBtn:hover{
     transform: translate(-1%, -5%);
-    box-shadow: 0 0 10px #ff416d65;
+    box-shadow: 0 0 10px #00419d;
 }
 
 .text{
